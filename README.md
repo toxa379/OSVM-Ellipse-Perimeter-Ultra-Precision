@@ -24,7 +24,7 @@ The formula completely outperforms modern analytical standards in applied geomet
 * **Root Mean Square Error (RMS):** **0.00004924%** (49 parts per billion).
 * **Absolute Boundary Integration:** The error drops to strictly **0.00000000%** at absolute topological boundaries — both for a perfect circle ($h=0$) and during the collapse into a one-dimensional line/string ($h=1$).
 * **Computational Efficiency:** The function executes in a single top-down pass (~14 basic arithmetic CPU operations), making it ideal for video games, robotics, graphics hardware, and quantum simulation circuits.
-* ![Precision Horizon](Figure_1.png)
+ ![Precision Horizon](Figure_1.png)
 
 ### 📄 Mathematical Model
 $$P = \pi(a+b) \cdot \left[ 1 + \frac{3h}{10 + \sqrt{4 - 3h}} + C_1 h^4 + C_2 h^8 + C_3 h^{12} + C_4 h^{16} \right]$$
@@ -62,7 +62,7 @@ $$h = \left(\frac{a-b}{a+b}\right)^2$$
 * **Среднеквадратичное отклонение (RMS):** **0.00004924%** (49 миллиардных долей процента).
 * **Абсолютная бесшовность границ:** Погрешность падает до строгого **0.00000000%** в крайних сингулярностях — на идеальном двумерном круге ($h=0$) и при коллапсе овала в одномерную линию/струну ($h=1$).
 * **Вычислительная энергоэффективность:** Функция выполняется за 1 проход сверху вниз (~14 простейших арифметических операций процессора), что делает её идеальной для видеоигр, робототехники, графических чипов и квантовых цепей симуляции.
-* ![Precision Horizon](Figure_1.png)
+ ![Precision Horizon](Figure_1.png)
 
 ### 📄 Математическая модель
 $$P = \pi(a+b) \cdot \left[ 1 + \frac{3h}{10 + \sqrt{4 - 3h}} + C_1 h^4 + C_2 h^8 + C_3 h^{12} + C_4 h^{16} \right]$$
