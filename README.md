@@ -1,4 +1,4 @@
-# OSVM Manifest: Ultra-Precise Ellipse Perimeter / Сверхточный Периметр Эллипса
+# OSVM (Orbital Strain Vacuum Metric) Manifest: Ultra-Precise Ellipse Perimeter / Сверхточный Периметр Эллипса
 
 🌐 **Language / Язык:**
 * [English Version](#english-version)
